@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p style="padding: 10px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid var(--medium-color);">
                         <strong>Difficulty Tip:</strong> Colored lines indicate effort. Red is Hard, Green is Easy.
                     </p>
-                    <p>For source code : https://github.com/MertKx/RecEngine </p>
+                    <p>For source code: <a href="https://github.com/MertKx/RecEngine" target="_blank">https://github.com/MertKx/RecEngine</a></p>
                 </div>
                 <p style="margin-top:25px; font-size:0.85rem; color: #636e72;">RecEngine Project by Mert Kalay © 2026</p>
             `;
