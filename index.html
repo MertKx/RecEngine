@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RecEngine | Smart Recipe Finder</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+</head>
+<body>
+    
+    <header>
+        <div class="header-top">
+            <h1>RecEngine</h1>
+            <button id="guide-btn" class="secondary-btn">How to Use? / Github Repo</button>
+        </div>
+    </header>
+
+    <main class="search-container">
+        <h3>Select your ingredients and discover what you can cook today!</h3>
+        
+        <div id="ingredient-pills" class="pill-container"></div>
+        
+        <div class="filter-actions">
+            <button id="clear-filters" class="secondary-btn">Clear Choices</button>
+        </div>
+    </main>
+
+    <div id="recipe-results" class="recipe-grid"></div>
+
+    <div id="recipe-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div id="modal-body">
+                </div>
+        </div>
+    </div>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
