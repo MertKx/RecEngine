@@ -238,5 +238,565 @@
     "time": "15 min",
     "ingredients": ["chickpeas", "tahin", "lemon", "garlic", "oil", "salt"],
     "instructions": "Blend boiled chickpeas with tahini, lemon, and garlic. Serve with a drizzle of olive oil."
+  },
+  {
+    "id": 31,
+    "name": "Garlic Butter Pasta",
+    "difficulty": 1,
+    "time": "12 min",
+    "ingredients": ["pasta", "garlic", "butter", "oil", "salt"],
+    "instructions": "Boil pasta. Sauté lots of garlic in butter and oil. Toss with pasta and salt."
+  },
+  {
+    "id": 32,
+    "name": "Mashed Potatoes",
+    "difficulty": 1,
+    "time": "25 min",
+    "ingredients": ["potato", "milk", "butter", "salt"],
+    "instructions": "Boil potatoes until soft. Mash with butter, milk, and salt until creamy."
+  },
+  {
+    "id": 33,
+    "name": "Scrambled Eggs with Cheese",
+    "difficulty": 1,
+    "time": "8 min",
+    "ingredients": ["egg", "cheese", "butter", "salt"],
+    "instructions": "Whisk eggs with salt. Melt butter in a pan, pour eggs, add cheese, and stir until cooked."
+  },
+  {
+    "id": 34,
+    "name": "Onion Rings (Home Style)",
+    "difficulty": 2,
+    "time": "20 min",
+    "ingredients": ["onion", "flour", "oil", "salt"],
+    "instructions": "Slice onions into rings. Coat with flour and salt. Fry in deep oil until golden brown."
+  },
+  {
+    "id": 35,
+    "name": "Chicken Broth Soup",
+    "difficulty": 1,
+    "time": "30 min",
+    "ingredients": ["chicken", "carrot", "onion", "salt", "garlic"],
+    "instructions": "Boil chicken with onions, carrots, and garlic. Shred chicken and serve with the broth."
+  },
+  {
+    "id": 36,
+    "name": "Boiled Eggs",
+    "difficulty": 1,
+    "time": "10 min",
+    "ingredients": ["egg", "salt"],
+    "instructions": "Place eggs in cold water. Bring to boil and cook for 6-10 minutes depending on desired firmness."
+  },
+  {
+    "id": 37,
+    "name": "Yogurt Soup (Yayla)",
+    "difficulty": 2,
+    "time": "25 min",
+    "ingredients": ["yogurt", "rice", "egg", "butter", "salt"],
+    "instructions": "Boil rice in water. Mix yogurt and egg, temper with rice water, and add to pot. Top with melted butter."
+  },
+  {
+    "id": 38,
+    "name": "Oven Roasted Potatoes",
+    "difficulty": 1,
+    "time": "40 min",
+    "ingredients": ["potato", "oil", "garlic", "salt"],
+    "instructions": "Dice potatoes. Toss with oil, salt, and minced garlic. Bake until crispy and brown."
+  },
+  {
+    "id": 39,
+    "name": "Ground Beef Rice",
+    "difficulty": 2,
+    "time": "30 min",
+    "ingredients": ["ground beef", "rice", "onion", "oil", "salt"],
+    "instructions": "Sauté ground beef and onions. Add washed rice, sauté briefly, add water, and cook until water is absorbed."
+  },
+  {
+    "id": 40,
+    "name": "Zucchini Soup",
+    "difficulty": 2,
+    "time": "20 min",
+    "ingredients": ["zucchini", "onion", "milk", "oil", "salt"],
+    "instructions": "Sauté onions and zucchinis. Boil with water, blend until smooth. Add milk and boil once more."
+  },
+  {
+    "id": 41,
+    "name": "Pasta with Yogurt and Meat",
+    "difficulty": 2,
+    "time": "20 min",
+    "ingredients": ["pasta", "ground beef", "yogurt", "garlic", "butter"],
+    "instructions": "Boil pasta. Top with garlic yogurt and sautéed ground beef. Add melted butter sauce."
+  },
+  {
+    "id": 42,
+    "name": "Carrot Salad with Yogurt",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["carrot", "yogurt", "garlic", "oil", "salt"],
+    "instructions": "Grate carrots and sauté in oil. Mix with garlic yogurt and salt."
+  },
+  {
+    "id": 43,
+    "name": "Tomato Omelet",
+    "difficulty": 1,
+    "time": "10 min",
+    "ingredients": ["egg", "tomato", "oil", "salt"],
+    "instructions": "Sauté chopped tomatoes in oil. Pour beaten eggs over them and cook until set."
+  },
+  {
+    "id": 44,
+    "name": "Simple Chicken Wings",
+    "difficulty": 2,
+    "time": "35 min",
+    "ingredients": ["chicken", "oil", "salt", "garlic"],
+    "instructions": "Marinate wings with oil, salt, and garlic. Bake or fry until golden brown."
+  },
+  {
+    "id": 45,
+    "name": "Bulgur with Chickpeas",
+    "difficulty": 2,
+    "time": "25 min",
+    "ingredients": ["bulgur", "chickpeas", "onion", "butter", "salt"],
+    "instructions": "Sauté onion in butter. Add bulgur and boiled chickpeas. Add water and cook until absorbed."
+  },
+  {
+    "id": 46,
+    "name": "Egg Salad",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["egg", "onion", "lemon", "oil", "salt"],
+    "instructions": "Boil eggs and dice them. Mix with chopped onions, lemon juice, oil, and salt."
+  },
+  {
+    "id": 47,
+    "name": "Garlic Bread",
+    "difficulty": 1,
+    "time": "10 min",
+    "ingredients": ["bread", "garlic", "butter", "salt"],
+    "instructions": "Mix garlic with butter. Spread on bread slices and bake until crispy."
+  },
+  {
+    "id": 48,
+    "name": "Potato and Egg Scramble",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["potato", "egg", "onion", "oil", "salt"],
+    "instructions": "Fry diced potatoes and onions. Pour whisked eggs over and stir until cooked."
+  },
+  {
+    "id": 49,
+    "name": "Boiled Chicken Breast",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["chicken", "salt", "lemon"],
+    "instructions": "Boil chicken breast in salted water. Slice and serve with lemon juice."
+  },
+  {
+    "id": 50,
+    "name": "Turkish Pasta (Manti Style)",
+    "difficulty": 2,
+    "time": "25 min",
+    "ingredients": ["pasta", "yogurt", "garlic", "tomato paste", "butter"],
+    "instructions": "Boil pasta. Top with garlic yogurt and a sauce made of butter and tomato paste."
+  },
+  {
+    "id": 51,
+    "name": "Rice with Chickpeas",
+    "difficulty": 2,
+    "time": "30 min",
+    "ingredients": ["rice", "chickpeas", "butter", "salt"],
+    "instructions": "Sauté rice in butter. Add boiled chickpeas and water. Cook on low heat."
+  },
+  {
+    "id": 52,
+    "name": "Stewed Zucchini",
+    "difficulty": 1,
+    "time": "30 min",
+    "ingredients": ["zucchini", "onion", "tomato", "oil", "salt"],
+    "instructions": "Sauté onion, add diced zucchini and tomatoes. Cook in own juice until tender."
+  },
+  {
+    "id": 53,
+    "name": "Carrot Soup",
+    "difficulty": 2,
+    "time": "30 min",
+    "ingredients": ["carrot", "onion", "potato", "oil", "salt"],
+    "instructions": "Sauté vegetables, boil in water until soft. Blend until smooth and add salt."
+  },
+  {
+    "id": 54,
+    "name": "Eggplant in Oven",
+    "difficulty": 2,
+    "time": "40 min",
+    "ingredients": ["eggplant", "tomato", "garlic", "oil", "salt"],
+    "instructions": "Slice eggplant and tomatoes. Layer with garlic and oil in a tray. Bake until soft."
+  },
+  {
+    "id": 55,
+    "name": "Fried Sucuk",
+    "difficulty": 1,
+    "time": "5 min",
+    "ingredients": ["sucuk", "oil"],
+    "instructions": "Slice sucuk and fry in a pan with very little oil until crispy."
+  },
+  {
+    "id": 56,
+    "name": "Lentil Salad",
+    "difficulty": 1,
+    "time": "25 min",
+    "ingredients": ["lentil", "onion", "lemon", "oil", "salt"],
+    "instructions": "Boil lentils until tender but not mushy. Mix with chopped onions, lemon, and oil."
+  },
+  {
+    "id": 57,
+    "name": "Green Pepper Saute",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["green pepper", "tomato", "garlic", "oil"],
+    "instructions": "Sauté peppers in oil. Add garlic and diced tomatoes. Cook until sauce thickens."
+  },
+  {
+    "id": 58,
+    "name": "Cheesy Pasta",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["pasta", "cheese", "butter", "salt"],
+    "instructions": "Boil pasta. Drain and mix with butter and plenty of cheese while hot."
+  },
+  {
+    "id": 59,
+    "name": "Chicken and Potatoes",
+    "difficulty": 3,
+    "time": "50 min",
+    "ingredients": ["chicken", "potato", "onion", "oil", "salt"],
+    "instructions": "Place chicken and potato wedges in a tray. Add sliced onions, oil, and salt. Bake until golden."
+  },
+  {
+    "id": 60,
+    "name": "Yogurt with Garlic",
+    "difficulty": 1,
+    "time": "5 min",
+    "ingredients": ["yogurt", "garlic", "salt"],
+    "instructions": "Crush garlic and mix with yogurt and salt. Perfect as a side sauce."
+  },
+  {
+    "id": 61,
+    "name": "Fried Potatoes and Peppers",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["potato", "green pepper", "oil", "salt"],
+    "instructions": "Fry potato cubes first, then add peppers. Fry until both are crispy."
+  },
+  {
+    "id": 62,
+    "name": "Beef and Pepper Saute",
+    "difficulty": 2,
+    "time": "30 min",
+    "ingredients": ["ground beef", "green pepper", "onion", "oil", "salt"],
+    "instructions": "Sauté beef on high heat. Add onions and peppers. Cook until vegetables are soft."
+  },
+  {
+    "id": 63,
+    "name": "Tomato and Onion Salad",
+    "difficulty": 1,
+    "time": "10 min",
+    "ingredients": ["tomato", "onion", "lemon", "oil", "salt"],
+    "instructions": "Slice tomatoes and onions thinly. Mix with lemon juice, oil, and salt."
+  },
+  {
+    "id": 64,
+    "name": "Simple Bulgur Soup",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["bulgur", "tomato paste", "onion", "oil", "salt"],
+    "instructions": "Sauté onion and paste. Add bulgur and water. Boil until bulgur is soft."
+  },
+  {
+    "id": 65,
+    "name": "Chicken with Garlic",
+    "difficulty": 2,
+    "time": "25 min",
+    "ingredients": ["chicken", "garlic", "butter", "oil", "salt"],
+    "instructions": "Sauté chicken strips in butter and oil. Add minced garlic at the end to prevent burning."
+  },
+  {
+    "id": 66,
+    "name": "Potato and Cheese Bake",
+    "difficulty": 2,
+    "time": "40 min",
+    "ingredients": ["potato", "cheese", "milk", "salt"],
+    "instructions": "Slice potatoes thinly. Layer in tray with salt and milk. Top with cheese and bake."
+  },
+  {
+    "id": 67,
+    "name": "Ground Beef Omelet",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["egg", "ground beef", "onion", "oil", "salt"],
+    "instructions": "Sauté ground beef and onions. Pour beaten eggs over the top and cook."
+  },
+  {
+    "id": 68,
+    "name": "Zucchini with Yogurt",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["zucchini", "yogurt", "garlic", "oil"],
+    "instructions": "Dice and fry zucchinis. Drain and serve with garlic yogurt on top."
+  },
+  {
+    "id": 69,
+    "name": "Rice with Vermicelli",
+    "difficulty": 2,
+    "time": "25 min",
+    "ingredients": ["rice", "pasta", "butter", "salt"],
+    "instructions": "Brown small pasta (vermicelli) in butter. Add rice and water. Cook until done."
+  },
+  {
+    "id": 70,
+    "name": "Lentil and Rice Mix (Mujadara)",
+    "difficulty": 2,
+    "time": "35 min",
+    "ingredients": ["lentil", "rice", "onion", "oil", "salt"],
+    "instructions": "Boil lentils. Sauté rice and lentils together. Top with heavily caramelized onions."
+  },
+  {
+    "id": 71,
+    "name": "Creamy Tomato Pasta",
+    "difficulty": 2,
+    "time": "20 min",
+    "ingredients": ["pasta", "tomato", "milk", "butter", "salt"],
+    "instructions": "Cook pasta. Make a sauce with butter, grated tomatoes, and milk. Combine and serve."
+  },
+  {
+    "id": 72,
+    "name": "Boiled Chickpeas",
+    "difficulty": 1,
+    "time": "45 min",
+    "ingredients": ["chickpeas", "salt", "oil"],
+    "instructions": "Boil chickpeas until very soft. Serve as a snack with salt and a bit of oil."
+  },
+  {
+    "id": 73,
+    "name": "Garlic Sautéed Mushrooms",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["mushroom", "garlic", "butter", "salt"],
+    "instructions": "Sauté mushrooms on high heat with butter and garlic until golden."
+  },
+  {
+    "id": 74,
+    "name": "Bulgur with Tomato",
+    "difficulty": 1,
+    "time": "25 min",
+    "ingredients": ["bulgur", "tomato", "onion", "oil", "salt"],
+    "instructions": "Sauté onion and tomatoes. Add bulgur and water. Cook until bulgur is tender."
+  },
+  {
+    "id": 75,
+    "name": "Egg with Sucuk and Cheese",
+    "difficulty": 1,
+    "time": "10 min",
+    "ingredients": ["egg", "sucuk", "cheese", "butter"],
+    "instructions": "Fry sucuk, add eggs, then top with cheese. Cover the pan until cheese melts."
+  },
+  {
+    "id": 76,
+    "name": "Onion and Egg Fry",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["egg", "onion", "oil", "salt"],
+    "instructions": "Caramelize onions in oil. Add eggs and scramble together. Season with salt."
+  },
+  {
+    "id": 77,
+    "name": "Boiled Potatoes with Garlic",
+    "difficulty": 1,
+    "time": "25 min",
+    "ingredients": ["potato", "garlic", "oil", "salt"],
+    "instructions": "Boil potatoes and dice. Toss with raw garlic, oil, and salt while still hot."
+  },
+  {
+    "id": 78,
+    "name": "Chicken and Rice Soup",
+    "difficulty": 2,
+    "time": "30 min",
+    "ingredients": ["chicken", "rice", "lemon", "salt"],
+    "instructions": "Boil chicken and rice together. Add salt and plenty of lemon juice before serving."
+  },
+  {
+    "id": 79,
+    "name": "Roasted Eggplant with Yogurt",
+    "difficulty": 2,
+    "time": "35 min",
+    "ingredients": ["eggplant", "yogurt", "garlic", "salt"],
+    "instructions": "Roast eggplant in oven, peel and mash. Mix with garlic yogurt and salt."
+  },
+  {
+    "id": 80,
+    "name": "Ground Beef and Potato Stew",
+    "difficulty": 2,
+    "time": "40 min",
+    "ingredients": ["ground beef", "potato", "onion", "tomato paste", "oil"],
+    "instructions": "Sauté beef and onions. Add paste and potatoes. Add water and simmer."
+  },
+  {
+    "id": 81,
+    "name": "Bread and Butter Pudding (Simple)",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["bread", "milk", "sugar", "egg", "butter"],
+    "instructions": "Soak bread in egg, milk, and sugar mixture. Bake in a buttered dish until golden."
+  },
+  {
+    "id": 82,
+    "name": "Zucchini Pancakes",
+    "difficulty": 2,
+    "time": "25 min",
+    "ingredients": ["zucchini", "egg", "flour", "salt", "oil"],
+    "instructions": "Grate zucchini, mix with egg and flour to make a batter. Fry spoonfuls in oil."
+  },
+  {
+    "id": 83,
+    "name": "Spicy Tomato Sauce Pasta",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["pasta", "tomato", "garlic", "oil", "pepper"],
+    "instructions": "Cook pasta. Sauté garlic and tomatoes with extra pepper. Combine and serve."
+  },
+  {
+    "id": 84,
+    "name": "Mushroom and Cheese Omelet",
+    "difficulty": 1,
+    "time": "12 min",
+    "ingredients": ["egg", "mushroom", "cheese", "butter"],
+    "instructions": "Sauté mushrooms. Pour eggs over, add cheese, fold omelet and serve."
+  },
+  {
+    "id": 85,
+    "name": "Carrot and Zucchini Saute",
+    "difficulty": 1,
+    "time": "15 min",
+    "ingredients": ["carrot", "zucchini", "oil", "garlic", "salt"],
+    "instructions": "Slice vegetables into sticks. Sauté with garlic and oil until tender."
+  },
+  {
+    "id": 86,
+    "name": "Simple Chicken Salad",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["chicken", "onion", "lemon", "oil", "salt"],
+    "instructions": "Boil chicken and shred. Mix with onions, lemon juice, and oil."
+  },
+  {
+    "id": 87,
+    "name": "Rice with Milk (Saltic)",
+    "difficulty": 2,
+    "time": "30 min",
+    "ingredients": ["rice", "milk", "salt", "butter"],
+    "instructions": "Boil rice in very little water, then add milk and salt. Cook until creamy. Add butter."
+  },
+  {
+    "id": 88,
+    "name": "Pasta with Butter and Garlic",
+    "difficulty": 1,
+    "time": "12 min",
+    "ingredients": ["pasta", "butter", "garlic", "salt"],
+    "instructions": "Boil pasta. Sauté garlic in butter and toss with the hot pasta."
+  },
+  {
+    "id": 89,
+    "name": "Roasted Peppers",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["green pepper", "garlic", "oil", "lemon"],
+    "instructions": "Roast peppers, peel them. Marinate with garlic, lemon juice, and oil."
+  },
+  {
+    "id": 90,
+    "name": "Ground Beef and Beans",
+    "difficulty": 2,
+    "time": "40 min",
+    "ingredients": ["ground beef", "beans", "onion", "tomato paste", "oil"],
+    "instructions": "Sauté beef and onions. Add paste and boiled beans. Cook with water until thick."
+  },
+  {
+    "id": 91,
+    "name": "Cucumber and Yogurt Salad",
+    "difficulty": 1,
+    "time": "10 min",
+    "ingredients": ["cucumber", "yogurt", "garlic", "salt"],
+    "instructions": "Slice cucumbers. Mix with garlic yogurt and salt. Serve chilled."
+  },
+  {
+    "id": 92,
+    "name": "Tomato and Cheese Toast",
+    "difficulty": 1,
+    "time": "8 min",
+    "ingredients": ["bread", "tomato", "cheese", "butter"],
+    "instructions": "Place tomato and cheese on bread. Butter the outside and toast in a pan."
+  },
+  {
+    "id": 93,
+    "name": "Zucchini and Potato Stew",
+    "difficulty": 2,
+    "time": "35 min",
+    "ingredients": ["zucchini", "potato", "onion", "oil", "salt"],
+    "instructions": "Sauté onion, add diced potato and zucchini. Cook with a little water until soft."
+  },
+  {
+    "id": 94,
+    "name": "Chicken and Mushroom Mix",
+    "difficulty": 2,
+    "time": "30 min",
+    "ingredients": ["chicken", "mushroom", "onion", "oil", "salt"],
+    "instructions": "Sauté onions, add chicken, then mushrooms. Cook on high heat until dry."
+  },
+  {
+    "id": 95,
+    "name": "Lentil Soup with Rice",
+    "difficulty": 2,
+    "time": "35 min",
+    "ingredients": ["lentil", "rice", "onion", "tomato paste", "oil"],
+    "instructions": "Sauté onion and paste. Add lentils and rice. Boil until both are very soft."
+  },
+  {
+    "id": 96,
+    "name": "Fried Zucchini and Carrots",
+    "difficulty": 1,
+    "time": "20 min",
+    "ingredients": ["zucchini", "carrot", "oil", "salt"],
+    "instructions": "Slice vegetables into rounds and fry in oil. Serve with salt."
+  },
+  {
+    "id": 97,
+    "name": "Simple Beef Broth Soup",
+    "difficulty": 2,
+    "time": "40 min",
+    "ingredients": ["ground beef", "rice", "onion", "salt", "garlic"],
+    "instructions": "Boil ground beef with onions and garlic. Add rice and cook until soft."
+  },
+  {
+    "id": 98,
+    "name": "Rice with Tomato Paste",
+    "difficulty": 1,
+    "time": "25 min",
+    "ingredients": ["rice", "tomato paste", "butter", "salt"],
+    "instructions": "Sauté rice in butter, add tomato paste. Add water and cook until absorbed."
+  },
+  {
+    "id": 99,
+    "name": "Garlic Yogurt with Chickpeas",
+    "difficulty": 1,
+    "time": "10 min",
+    "ingredients": ["chickpeas", "yogurt", "garlic", "oil"],
+    "instructions": "Mix boiled chickpeas with garlic yogurt. Drizzle with oil before serving."
+  },
+  {
+    "id": 100,
+    "name": "Fried Bread with Eggs",
+    "difficulty": 1,
+    "time": "12 min",
+    "ingredients": ["bread", "egg", "butter", "salt"],
+    "instructions": "Dip bread in whisked eggs with salt. Fry in butter until golden on both sides."
   }
 ]
