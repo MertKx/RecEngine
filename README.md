@@ -6,6 +6,10 @@ RecEngine is a modern, responsive web application designed to help users discove
 
 ---
 
+![RecEngine Preview](assets/img/recengine1.png)
+
+---
+
 ## ✨ Key Features
 
 - **Smart Filtering:** Select multiple ingredients to see which recipes you can cook right now.
@@ -14,6 +18,10 @@ RecEngine is a modern, responsive web application designed to help users discove
 - **Interactive Modal:** View detailed cooking instructions and ingredients in a focused popup.
 - **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
 - **Fast Search:** Real-time search bar for finding specific recipes or ingredients.
+
+---
+
+![RecEngine Recipe Preview](assets/img/recengine2.png)
 
 ---
 
